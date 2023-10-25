@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "extensions_enablevmAccess_username": {
+            "value": null
+        },
+        "extensions_enablevmAccess_password": {
+            "value": null
+        },
+        "extensions_enablevmAccess_ssh_key": {
+            "value": null
+        },
+        "extensions_enablevmAccess_reset_ssh": {
+            "value": null
+        },
+        "extensions_enablevmAccess_remove_user": {
+            "value": null
+        },
+        "extensions_enablevmAccess_expiration": {
+            "value": null
+        },
+        "virtualMachines_labo0708_vm_name": {
+            "value": null
+        },
+        "disks_labo0708_vm_disk1_db9087a80eb648bb9d838c2d53c7ff8a_externalid": {
+            "value": null
+        },
+        "networkInterfaces_labo0708_vm685_z1_externalid": {
+            "value": null
+        }
+    }
+}
